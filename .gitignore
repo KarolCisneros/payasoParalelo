@@ -4,3 +4,4 @@ data/
 *_results.csv
 out*.csv
 __pycache__/
+env/
